@@ -1,0 +1,13 @@
+DESCRIÇÃO DO PROJETO
+
+Nosso projeto basicamente será nosso portifolio online.
+
+O site terá:
+
+1-home,com o logo, menu estatico e com um texto de abertura e um banner com os conteúdos variados sobre arte, musica, video e etc.
+
+2-Menu:
+2.1- Perfil Profissional, com o curriculum.
+2.2- Portifolio, com fotos, arquivos, todos os trabalhos feitos em nossa carreira profissional.
+2.3- Noticias, sera um menu de curiosidades, matérias que fizemos, jornais, sites ( em que o nosso trabalho foi divulgado).
+2.4- Contato, formulário basico, Nome, telefone e email.(validar o envio apenas se o nome e e-mail estiverem preenchidos).
