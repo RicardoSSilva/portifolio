@@ -1,0 +1,2 @@
+Ricardo Santana: Escreveu os códigos.
+Daniela Dip: Realizou a parte visual e realizou testes.
